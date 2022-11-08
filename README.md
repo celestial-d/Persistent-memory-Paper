@@ -1,10 +1,15 @@
 # SystemPaper
 
 name	conference 	year	goal	tools	capture	following work
+
 Multi-stage Replay with Crosscut	VEE	2010	a self-defined record and replay platform	vmware, record&replay	instruction	
+
 Eidetic Systems	OSDI	2014	a practical eidetic computing platform	PIN, record&replay	instruction	Rain: Refinable Attack Investigation with On-demand Inter-Process Information Flow Tracking
+
 Optimistic Hybrid Analysis: Accelerating Dynamic Analysis through Predicated Static Analysis	ASPLOS	2018	hybrid analysis for application, data race bug detection	llvm	state	
+
 Rain: Refinable Attack Investigation with On-demand Inter-Process Information Flow Tracking	CCS	2017	a method to investigate attack by record and replay	PIN, record&replay	instruction	
+
 PALLAS: Semantic-Aware Checking for Finding Deep Bugs in Fast Path	ASPLOS	2017				
 Understanding Real-World Concurrency Bugs in Go	ASPLOS	2019				
 SherLog: Error Diagnosis by Connecting Clues from Run-time Logs	ASPLOS	2010				
