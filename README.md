@@ -1,9 +1,13 @@
 Persistent Memory Paper
 
 Blurred Persistence in Transactional Persistent Memory (msst2015)
+
 Fine-grained Metadata Journaling on NVM (msst2016)
+
 Fast and Failure-Consistent Updates of Application Data in Non-Volatile Main Memory File System (msst2016)
+
 HMVFS: A Hybrid Memory Versioning File System (msst2016)
+
 Reducing Write Amplification of Flash Storage through Cooperative Data Management with NVM (msst2017)
 Hibachi: A Cooperative Hybrid Cache with NVRAM and DRAM for Storage Arrays (msst2017)
 Ouroboros Wear-Leveling: A Two-Level Hierarchical Wear-Leveling Model for NVRAM (msst2017)
