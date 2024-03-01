@@ -597,6 +597,6 @@ Persistent Memory Paper
 298.ANViL: Advanced Virtualization for Modern Non-Volatile Memory Devices (fast2015)
 
 299.NV-Tree: Reducing Consistency Cost for NVM-based Single Level Systems (fast2015)
-![image](https://github.com/celestial-d/Persistent-memory-Paper/assets/37310481/5a3cab23-5441-49a7-bc28-ce2e7246a689)
+
 
 
